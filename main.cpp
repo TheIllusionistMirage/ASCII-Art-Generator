@@ -12,7 +12,7 @@
 *     TEXT EDITOR YOU USE TO VIEW THE OUTPUT )               *
 *                                                            *
 *     If you want the output as HTML files, just uncomment   *
-*     lines 75 to 81 and add them inside the <pre></pre>     *
+*     lines 99 to 101 and add them inside the <pre></pre>    *
 *     tags of the following HTML file and save as .html :    *
 *                                                            *
 *     <!doctype html>                                        *
