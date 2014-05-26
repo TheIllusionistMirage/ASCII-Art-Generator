@@ -10,4 +10,5 @@ Enjoy!!!
 Compile and run:
 
 g++ main.cpp -std=c++11 -lsfml-graphics -lsfml-window -lsfml-system -o ascii-art-gen
+
 ./ascii-art-gen
