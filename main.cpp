@@ -90,6 +90,9 @@ int main(int argc, char *argv[])
                 if(outputChar >= charSet.size())
                     outputChar = charSet.size() - 1;
 
+                if(outputChar < 0)
+                    outputChar = 0;
+
                 /*
                  Uncomment this block ony if you want the output to be HTML specific.
                 */
