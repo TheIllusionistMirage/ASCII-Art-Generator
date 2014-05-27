@@ -19,7 +19,7 @@
 *     <html>                                                 *
 *       <body>                                               *
 *         <pre class="white"                                 *
-*          style="font: 5px/5px monospace;                   *
+*          style="font: 8px/5px monospace;                   *
 *          text-align: center;">                             *
 *                                                            *
 *             ...YOUR OUTPUT GOES HERE...                    *
