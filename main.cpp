@@ -107,6 +107,8 @@ int main(int argc, char *argv[])
             }
             output << std::endl;
         }
+        
+        std::cout << "Output successflly produced in 'output.txt'!" << std::endl;
     }
     catch(std::exception& e)
     {
